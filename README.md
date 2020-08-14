@@ -11,7 +11,9 @@
 
 
 # Initial Setup Instructions 
->Make sure to download correct chromedriver - https://chromedriver.chromium.org/downloads
+>Make sure to download correct chromedriver - https://chromedriver.chromium.org/downloads 
+
+>Also check the version of your chrome browser while downloading the chromedriver
 
 
 # Running Script 
